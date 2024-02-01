@@ -20,13 +20,13 @@ npm install
 npm start
 ```
 
-Open up `http://localhost:3000` and you should see the React app being served.
+Open up http://localhost:3000 and you should see the React app being served.
 
 ## Setup
 
 Assuming you had empty `react` and `express` directories, here's how you could set this up.
 
-Navigate to the `react` directory and set up a Vite project in the current directory:
+Navigate to the `react` directory and set up a Vite project in the current directory (note the `.` at the end):
 
 ```sh
 npm init vite@latest .
